@@ -12,7 +12,7 @@ Tác giả: HOÀNG CAO KHÁNH
       "name": "AAATQA - Dựng Module Tủ Áo & Cửa Đồ Gỗ",
       "command": "TQA",
       "version": "2026.09.08",
-      "full_desc": "Hệ thống tự động hóa thiết kế, bổ chi tiết đồ gỗ nội thất, tổng hợp mẫu cánh tủ & Chi tiết cửa nhôm. Tự động rải module con, dóng hình chiếu Mặt Bằng ; Mặt Cắt & Chi tiết cửa. Tác giả: HCK ",
+      "full_desc": "Demotestttttt **** Hệ thống tự động hóa thiết kế, bổ chi tiết đồ gỗ nội thất, tổng hợp mẫu cánh tủ & Chi tiết cửa nhôm. Tự động rải module con, dóng hình chiếu Mặt Bằng ; Mặt Cắt & Chi tiết cửa. Tác giả: HCK ",
       "usage": "Gõ TQA -> Chọn module cần chèn -> Click 1 điểm vào khoang tủ để chèn nhanh hoặc pick 2 điểm vẽ mới. Lệnh tắt bổ trợ: TMB (Mặt bằng), TMC (Mặt cắt), TMT (Trích CT cửa nhôm), TMA (Sao chép thuộc tính).",
       "file_name": "TQA.fas",
       "file_id": "1UxBq5HpRidxPuplfZ1hloqrinanTFEhZ",

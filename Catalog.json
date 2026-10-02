@@ -9,10 +9,10 @@ Tác giả: HOÀNG CAO KHÁNH
   "items": [
     {
       "id": "TQA",
-      "name": "AAATQA - Dựng Module Tủ Áo & Cửa Đồ Gỗ",
+      "name": "TQA - Dựng Module Tủ Áo & Modul cửa nhôm kính ... (cùng share)",
       "command": "TQA",
       "version": "2026.09.08",
-      "full_desc": "Demotestttttt **** Hệ thống tự động hóa thiết kế, bổ chi tiết đồ gỗ nội thất, tổng hợp mẫu cánh tủ & Chi tiết cửa nhôm. Tự động rải module con, dóng hình chiếu Mặt Bằng ; Mặt Cắt & Chi tiết cửa. Tác giả: HCK ",
+      "full_desc": "Hệ thống tự động hóa thiết kế, tổng hợp mẫu cánh tủ; Chi tiết cửa nhôm & Pano phào chỉ. Tự động rải module con, dóng hình chiếu Mặt Bằng ; Mặt Cắt & Chi tiết cửa. Tác giả: HCK ",
       "usage": "Gõ TQA -> Chọn module cần chèn -> Click 1 điểm vào khoang tủ để chèn nhanh hoặc pick 2 điểm vẽ mới. Lệnh tắt bổ trợ: TMB (Mặt bằng), TMC (Mặt cắt), TMT (Trích CT cửa nhôm), TMA (Sao chép thuộc tính).",
       "file_name": "TQA.fas",
       "file_id": "1UxBq5HpRidxPuplfZ1hloqrinanTFEhZ",
@@ -31,7 +31,7 @@ Tác giả: HOÀNG CAO KHÁNH
     },
     {
       "id": "IN",
-      "name": "IN - In ấn tự động hàng loạt Model",
+      "name": "IN - In ấn tự động hàng loạt Model - Lips in ấn rút gọn tối giản nhất",
       "command": "IN",
       "version": "2026.10.02",
       "full_desc": "Tiện ích in ấn hàng loạt bản vẽ trong AutoCAD. Tự động nhận diện khung bản vẽ theo Block hoặc Pline, tự xoay khổ giấy, sắp xếp thứ tự và xuất file PDF cực nhanh.",
@@ -46,7 +46,7 @@ Tác giả: HOÀNG CAO KHÁNH
       "command": "TCT",
       "version": "2026.10.02",
       "full_desc": "Tiện ích tạo hình trích chi tiết (Detail Callout) và dóng tiếp tuyến tự động trong AutoCAD. Hỗ trợ tự động nhận diện quét chọn 2 đường tròn để vẽ 2 đường biên tiếp tuyến chung ngoài (Tangent) nối 2 đường tròn với nhau.",
-      "usage": "Gõ TCT -> Gõ tỉ lệ Scale (mặc định x3) -> Quét Block chi tiết trích + đường ranh -> Rê chuột đặt hình trích. (TCT hoặc NNT để tạo Nối tiếp tuyến 2 đường tròn).",
+      "usage": "Gõ TCT -> Gõ tỉ lệ Scale (mặc định x3) -> Quét Block chi tiết trích + đường ranh -> Rê chuột đặt hình trích. (TCT để tạo Nối tiếp tuyến 2 đường tròn hoặc các hình đa giác).",
       "file_name": "TCT.fas",
       "file_id": "1C6J-UODQphmfb6gJgSfUjpk1J2UWbR5H",
       "download_url": "https://drive.google.com/uc?export=download&id=1C6J-UODQphmfb6gJgSfUjpk1J2UWbR5H"
@@ -68,7 +68,7 @@ Tác giả: HOÀNG CAO KHÁNH
   	"command": "D",
 	"version": "2026.09.29",
       	"full_desc": "Bộ công cụ hỗ trợ thao tác Dimension đa năng trong AutoCAD. Bao gồm các tính năng: tự động tạo dim (thẳng/chéo) kế thừa tỷ lệ, gộp dim, tạo dim tổng, nối/chia dim, tạo dim hàng loạt qua các đối tượng (lọc Hatch), tự động căn chỉnh vị trí chữ (staggered text) để tránh đè nhau, liên kết Text/Field vào Dim, căn gióng hàng (Stretch Dim) và cắt/nối chân Dim (Trim/Extend).",
-  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như D1, D2, DAL, DB, DH, DO, DV, DS, DI, DA, CD) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD.",
+  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như D1, D2, DAL, DB, DH, DO, DV, DS, DI, DA, CD) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD. Đang được tiếp tục phát triển",
 	"file_name": "Dim.fas",
       	"file_id": "1GKAPuNGKuDvqaK0UUOXCeOB-5c-n0G2a",
     	"download_url": "https://drive.google.com/uc?export=download&id=1_9IBuYoDMrShC0r_jYJJPXYZ1ffi-8-Z"

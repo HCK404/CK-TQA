@@ -19,6 +19,17 @@ Tác giả: HOÀNG CAO KHÁNH
       "file_id": "1UxBq5HpRidxPuplfZ1hloqrinanTFEhZ",
       "download_url": "https://drive.google.com/uc?export=download&id=1UxBq5HpRidxPuplfZ1hloqrinanTFEhZ"
     },
+	  {
+      "id": "IN",
+      "name": "IN - In ấn tự động hàng loạt Model - Lips in ấn rút gọn tối giản nhất",
+      "command": "IN",
+      "version": "2026.10.02",
+      "full_desc": "Tiện ích in ấn hàng loạt bản vẽ trong AutoCAD. Tự động nhận diện khung bản vẽ theo Block hoặc Pline, tự xoay khổ giấy, sắp xếp thứ tự và xuất file PDF cực nhanh.",
+      "usage": "Gõ IN -> Chọn máy in, khổ giấy, kiểu in -> Quét chọn các khung bản vẽ cần xuất in.",
+      "file_name": "in.fas",
+      "file_id": "1OdFD0hfsHfw2uQPxWWxzaH6O4sVL1HCK",
+  "download_url": "https://drive.google.com/uc?export=download&id=1OdFD0hfsHfw2uQPxWWxzaH6O4sVL1HCK"
+},
     {
       "id": "JB",
       "name": "JB - Tạo Joint Board Plywood (Khớp nối ván)",
@@ -29,17 +40,6 @@ Tác giả: HOÀNG CAO KHÁNH
       "file_name": "JB.fas",
       "file_id": "17dFIfq339urJT6aTDQKFPtSpcBnMxuMZ",
       "download_url": "https://drive.google.com/uc?export=download&id=17dFIfq339urJT6aTDQKFPtSpcBnMxuMZ"
-    },
-    {
-      "id": "IN",
-      "name": "IN - In ấn tự động hàng loạt Model - Lips in ấn rút gọn tối giản nhất",
-      "command": "IN",
-      "version": "2026.10.02",
-      "full_desc": "Tiện ích in ấn hàng loạt bản vẽ trong AutoCAD. Tự động nhận diện khung bản vẽ theo Block hoặc Pline, tự xoay khổ giấy, sắp xếp thứ tự và xuất file PDF cực nhanh.",
-      "usage": "Gõ IN -> Chọn máy in, khổ giấy, kiểu in -> Quét chọn các khung bản vẽ cần xuất in.",
-      "file_name": "in.fas",
-      "file_id": "1OM3Am4M5igvE_fT_G8-uzP7x_PdBLj94",
-      "download_url": "https://drive.google.com/uc?export=download&id=1OM3Am4M5igvE_fT_G8-uzP7x_PdBLj94"
     },
     {
       "id": "TCT",

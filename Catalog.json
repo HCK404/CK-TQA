@@ -10,7 +10,7 @@ Tác giả: HOÀNG CAO KHÁNH
   "items": [
     {
       "id": "TQA",
-      "name": "TQA - Dựng Module Tủ Áo & Modul cửa nhôm kính ... (cùng share)",
+      "name": "TQA - Dựng Module Tủ Áo & Modul cửa nhôm kính ...",
       "command": "TQA",
       "version": "2026.10.05",
       "full_desc": "Hệ thống tự động hóa thiết kế, tổng hợp mẫu cánh tủ; Chi tiết cửa nhôm & Pano phào chỉ. Tự động rải module con, dóng hình chiếu Mặt Bằng ; Mặt Cắt & Chi tiết cửa. Tác giả: HCK ",
@@ -21,7 +21,7 @@ Tác giả: HOÀNG CAO KHÁNH
 },
 	  {
       "id": "IN",
-      "name": "IN - In ấn tự động hàng loạt Model - Lips in ấn rút gọn tối giản nhất",
+      "name": "IN - In ấn tự động trên Model - in & Gộp file",
       "command": "IN",
       "version": "2026.10.07",
       "full_desc": "Tiện ích in ấn hàng loạt bản vẽ trong AutoCAD. Tự động nhận diện khung bản vẽ theo Block hoặc Pline, tự xoay khổ giấy, sắp xếp thứ tự và xuất file PDF cực nhanh.",

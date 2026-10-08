@@ -1,7 +1,8 @@
 Tác giả: HOÀNG CAO KHÁNH 
 {
   "store_name": "CK Lisp Hub & Store",
-  "version": "2026.08.21",
+  "version": "2026.10.08",
+	"update": "Cập nhật thông báo cập nhật",
   "author": "Hoàng Cao Khánh / CK Team",
   "folder_id": "17X7S7bkLeFdpt8JXIjOmyTk9sh_-08Um",
   "updated_at": "2026-08-21 15:28:00",
@@ -67,9 +68,10 @@ Tác giả: HOÀNG CAO KHÁNH
       	"id": "DIM",
       	"name": "Auto-Dim & Dimension Tools",
   	"command": "D",
+	"update": "Cập nhật tính năng căn chỉnh Dim sắp xếp text dim hợp lý hơn",
 	"version": "2026.10.08",
       	"full_desc": "Bộ công cụ hỗ trợ thao tác Dimension đa năng trong AutoCAD. Bao gồm các tính năng: tự động tạo dim (thẳng/chéo) kế thừa tỷ lệ, gộp dim, tạo dim tổng, nối/chia dim, tạo dim hàng loạt qua các đối tượng (lọc Hatch), tự động căn chỉnh vị trí chữ (staggered text) để tránh đè nhau, liên kết Text/Field vào Dim, căn gióng hàng (Stretch Dim) và cắt/nối chân Dim (Trim/Extend).",
-  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như D1, D2, DA, DB, DH, DO, DV, DS, DI, DA, CD) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD. Cập nhật căn chỉnh text dim",
+  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như D1, D2, DA, DB, DH, DO, DV, DS, DI, DA, CD) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD.",
 	"file_name": "Dim.fas",
       	 "file_id": "1VUSjfL0WBjWFMqPO7tpwHOsnMbKKDpm0",
   "download_url": "https://drive.google.com/uc?export=download&id=1VUSjfL0WBjWFMqPO7tpwHOsnMbKKDpm0"

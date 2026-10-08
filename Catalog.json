@@ -67,13 +67,13 @@ Tác giả: HOÀNG CAO KHÁNH
       	"id": "DIM",
       	"name": "Auto-Dim & Dimension Tools",
   	"command": "D",
-	"version": "2026.09.29",
+	"version": "2026.10.",
       	"full_desc": "Bộ công cụ hỗ trợ thao tác Dimension đa năng trong AutoCAD. Bao gồm các tính năng: tự động tạo dim (thẳng/chéo) kế thừa tỷ lệ, gộp dim, tạo dim tổng, nối/chia dim, tạo dim hàng loạt qua các đối tượng (lọc Hatch), tự động căn chỉnh vị trí chữ (staggered text) để tránh đè nhau, liên kết Text/Field vào Dim, căn gióng hàng (Stretch Dim) và cắt/nối chân Dim (Trim/Extend).",
-  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như D1, D2, DA, DB, DH, DO, DV, DS, DI, DA, CD) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD. Đang được tiếp tục phát triển",
+  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như D1, D2, DA, DB, DH, DO, DV, DS, DI, DA, CD) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD. Cập nhật căn chỉnh text dim",
 	"file_name": "Dim.fas",
-      	"file_id": "1GKAPuNGKuDvqaK0UUOXCeOB-5c-n0G2a",
-    	"download_url": "https://drive.google.com/uc?export=download&id=1_9IBuYoDMrShC0r_jYJJPXYZ1ffi-8-Z"
-  },
+      	 "file_id": "1VUSjfL0WBjWFMqPO7tpwHOsnMbKKDpm0",
+  "download_url": "https://drive.google.com/uc?export=download&id=1VUSjfL0WBjWFMqPO7tpwHOsnMbKKDpm0"
+},
     {
       "id": "TS",
       "name": "TS - Đổi tỉ lệ kiểu đường (Linetype Scale) cả trong Block",

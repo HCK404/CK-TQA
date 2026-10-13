@@ -123,7 +123,7 @@ Tác giả: HOÀNG CAO KHÁNH
   },
   {
   "id": "W2",
-  "name": "Wipeout from Object (W2)",
+  "name": "Tạo Wipeout from Object (W2) / Tạo Hatch che đối tượng (W1)",
   "command": "W2",
   "version": "2026.10.13",
   "full_desc": "Tạo đối tượng Wipeout/Hatch [148] từ một đối tượng (circle, ellipse, or polyline with arcs). Mặc định Wipeout sẽ nằm dưới cùng không che đối tượng mẫu",
@@ -156,7 +156,7 @@ Tác giả: HOÀNG CAO KHÁNH
 },
 {
   "id": "VE0",
-  "name": "Đưa Bản Vẽ Về Mặt Phẳng Z=0",
+  "name": "Đưa các đối tượng được chọn về cùng 1 mặt phẳng Z=0",
   "command": "ve0",
   "version": "2026.09.01",
   "full_desc": "Chương trình tự động đưa toàn bộ các đối tượng được chọn trong bản vẽ về cùng một mặt phẳng có cao độ bằng 0 (Z=0). Hỗ trợ xử lý nhiều loại đối tượng như SPLINE, LINE, CIRCLE, ARC, POLYLINE, ELLIPSE, TEXT, DIMENSION, ATTDEF, SOLID, INSERT, ATTRIB, HATCH và LWPOLYLINE.",

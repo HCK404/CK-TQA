@@ -125,8 +125,8 @@ Tác giả: HOÀNG CAO KHÁNH
   "name": "Wipeout from Object (W2)",
   "command": "W2",
   "version": "2026.10.13",
-  "full_desc": "Tạo đối tượng Wipeout từ một đối tượng (circle, ellipse, or polyline with arcs). Mặc định Wipeout sẽ nằm dưới cùng không che đối tượng mẫu",
-  "usage": "Gõ lệnh 'w2', sau đó chọn một đối tượng (đường tròn, elip hoặc đa tuyến có cung tròn). Tiếp theo, chọn 'Yes' hoặc 'No' khi được hỏi có muốn xóa đối tượng gốc hay không.",
+  "full_desc": "Tạo đối tượng Wipeout/Hatch [148] từ một đối tượng (circle, ellipse, or polyline with arcs). Mặc định Wipeout sẽ nằm dưới cùng không che đối tượng mẫu",
+  "usage": "Gõ lệnh 'w1: Hatch [148] w2: Wipeout', sau đó chọn một đối tượng (đường tròn, elip hoặc đa tuyến có cung tròn).",
   "file_name": "w2.fas",
   "file_id": "1wmVvZ_Y94QLqnAHMsnYkZIAu0VmIWG7b",
   "download_url": "https://drive.google.com/uc?export=download&id=1wmVvZ_Y94QLqnAHMsnYkZIAu0VmIWG7b"

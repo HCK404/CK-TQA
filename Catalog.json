@@ -11,7 +11,7 @@ Tác giả: HOÀNG CAO KHÁNH
   "items": [
     {
       "id": "TQA",
-      "name": "TQA - Dựng Module Tủ Áo & Modul cửa nhôm kính ...",
+      "name": "Dựng Module Tủ Áo & Modul cửa nhôm kính ...",
       "command": "TQA",
       "version": "2026.10.05",
       "full_desc": "Hệ thống tự động hóa thiết kế, tổng hợp mẫu cánh tủ; Chi tiết cửa nhôm & Pano phào chỉ. Tự động rải module con, dóng hình chiếu Mặt Bằng ; Mặt Cắt & Chi tiết cửa. Tác giả: HCK ",
@@ -22,9 +22,10 @@ Tác giả: HOÀNG CAO KHÁNH
 },
 	  {
       "id": "IN",
-      "name": "IN - In ấn tự động trên Model - in & Gộp file",
+      "name": "In ấn tự động trên Model - in & Gộp file",
       "command": "IN",
-      "version": "2026.10.07",
+	"update": "Update giao diện & cách thức in mới tăng tốc và giảm hiệu ứng in",
+      "version": "2026.10.10",
       "full_desc": "Tiện ích in ấn hàng loạt bản vẽ trong AutoCAD. Tự động nhận diện khung bản vẽ theo Block hoặc Pline, tự xoay khổ giấy, sắp xếp thứ tự và xuất file PDF cực nhanh.",
       "usage": "Gõ IN -> Chọn máy in, khổ giấy, kiểu in -> Quét chọn các khung bản vẽ cần xuất in.",
       "file_name": "in.fas",
@@ -33,7 +34,7 @@ Tác giả: HOÀNG CAO KHÁNH
 },
     {
       "id": "JB",
-      "name": "JB - Tạo Joint Board Plywood (Khớp nối ván)",
+      "name": "Tạo Joint Board Plywood (Khớp nối ván)",
       "command": "JB",
       "version": "2026.08.21",
       "full_desc": "Tiện ích cắt và tạo khớp nối tấm ván gỗ Plywood tự động theo tiêu chuẩn sản xuất. Hỗ trợ tạo khe joint, ngắt nét và tự động áp hatch theo lớp ván.",
@@ -44,7 +45,7 @@ Tác giả: HOÀNG CAO KHÁNH
     },
     {
       "id": "TCT",
-      "name": "TCT - Trích chi tiết bản vẽ",
+      "name": "Trích chi tiết bản vẽ",
       "command": "TCT",
       "version": "2026.10.05",
       "full_desc": "Tiện ích tạo hình trích chi tiết (Detail Callout) và dóng tiếp tuyến tự động trong AutoCAD. Hỗ trợ tự động nhận diện quét chọn 2 đường tròn để vẽ 2 đường biên tiếp tuyến chung ngoài (Tangent) nối 2 đường tròn với nhau.",
@@ -55,7 +56,7 @@ Tác giả: HOÀNG CAO KHÁNH
 }  
     {
       "id": "CF",
-      "name": "CF - Đánh cốt cao độ mặt đứng tự động",
+      "name": "Đánh cốt cao độ mặt đứng tự động",
       "command": "CF",
       "version": "2026.09.05",
       "full_desc": "Tiện ích đánh ký hiệu cao độ tự động trên mặt đứng và mặt cắt. Tự động nhận diện Block thuộc tính (Attribute) hoặc Text cao độ mẫu, tự động tính toán giá trị cao độ Y so với mốc ±0.000 và định dạng chuẩn (±0.000, +2.400, -1.200).",
@@ -78,7 +79,7 @@ Tác giả: HOÀNG CAO KHÁNH
 },
     {
       "id": "TS",
-      "name": "TS - Đổi tỉ lệ kiểu đường (Linetype Scale) cả trong Block",
+      "name": "Đổi tỉ lệ kiểu đường (Linetype Scale) cả trong Block",
       "command": "TS",
       "version": "2026.10.02",
       "full_desc": "Đổi tỉ lệ kiểu đường Linetype Scale đồng loạt cho các đối tượng được chọn (Line, Pline, Arc,...) và tự động quét sâu vào bên trong Block, Dynamic Block, Block lồng nhau mà không phá vỡ liên kết.",
@@ -89,7 +90,7 @@ Tác giả: HOÀNG CAO KHÁNH
   }
     {
       "id": "CM",
-      "name": "CM - Gộp nhanh Layer, DimStyle, TextStyle hàng loạt",
+      "name": "Gộp nhanh Layer, DimStyle, TextStyle hàng loạt",
       "command": "CM",
       "version": "2026.08.22",
       "full_desc": "Công cụ dọn dẹp và chuẩn hóa bản vẽ mạnh mẽ qua giao diện trực quan. Cho phép chọn nhiều Layer, DimStyle hoặc TextStyle nguồn để gộp toàn bộ đối tượng về 1 Layer/Style đích duy nhất, đồng thời tự động xóa sạch các định nghĩa rác.",
@@ -100,7 +101,7 @@ Tác giả: HOÀNG CAO KHÁNH
   },
     {
       "id": "MB",
-      "name": "MB - Sao chép thuộc tính Block Attribute & Đánh STT bản vẽ",
+      "name": "Sao chép thuộc tính Block Attribute & Đánh STT bản vẽ",
       "command": "MB",
       "version": "2026.08.22",
       "full_desc": "Tiện ích sao chép giá trị thuộc tính Attribute và Dynamic Properties giữa các Block cùng tên. Hỗ trợ đánh số thứ tự (STT) tự động tăng dần theo bước nhảy (+1, +2,...) và tự động sắp xếp thứ tự Block từ Trên xuống Dưới, từ Trái sang Phải.",
@@ -111,7 +112,7 @@ Tác giả: HOÀNG CAO KHÁNH
   },
     {
       "id": "FB",
-      "name": "FB - Liên kết Field Text động cho block",
+      "name": "Liên kết Field Text động cho block",
       "command": "FB",
       "version": "2026.08.22",
       "full_desc": "Lệnh FB tự động tạo liên kết Field lấy giá trị đo thực tế từ Dimension hoặc Text vào Text/Attribute khác. Mục đích link tên trong khung tên bản vẽ",

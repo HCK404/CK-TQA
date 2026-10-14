@@ -32,6 +32,18 @@ Tác giả: HOÀNG CAO KHÁNH
       "file_id": "1OdFD0hfsHfw2uQPxWWxzaH6O4sVL1HCK",
   "download_url": "https://drive.google.com/uc?export=download&id=1OdFD0hfsHfw2uQPxWWxzaH6O4sVL1HCK"
 },
+	  {
+      "id": "CAC",
+      "name": "Máy tính nhanh trong giao diện Model",
+      "command": "CAC",
+	"update": "",
+      "version": "2026.10.10",
+      "full_desc": "Chương trình AutoLISP hỗ trợ tính toán và xuất kết quả trong AutoCAD.",
+      "usage": "Gõ CAC để thực hiện phép tính trực tiếp trên không gian Model",
+      "file_name": "Calculator.export.result CAC.fas",
+      "file_id": "1HlpUgXzBNsmdKOCCcHvxAShcRWGDFQBC",
+  "download_url": "https://drive.google.com/uc?export=download&id=1HlpUgXzBNsmdKOCCcHvxAShcRWGDFQBC"
+},
     {
       "id": "JB",
       "name": "Tạo Joint Board Plywood (Khớp nối ván)",

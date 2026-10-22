@@ -159,12 +159,24 @@ Tác giả: HOÀNG CAO KHÁNH
   "id": "BV",
   "name": "Thống Kê & Đánh Số Bản Vẽ",
   "command": "BV",
-  "version": "2026.09.02",
+	"update": "Fix việc link giữa các thống kê bản vẽ và khung bản vẽ tăng cường khả năng liên kết text. Xóa bỏ tính năng sửa STT bản vẽ hãy sử dụng lisp 123 để điều chỉnh và copy text",
+  "version": "2026.10.22",
   "full_desc": "Tự động đánh số bản vẽ tăng dần theo vị trí sắp xếp và thống kê thuộc tính của các block khung tên để tạo bảng dữ liệu. Hỗ trợ liên kết 2 chiều (Reactor) giúp tự động đồng bộ thay đổi giữa bảng thống kê và thuộc tính khung tên.",
   "usage": "Nhập lệnh BV, chọn 'S' để đánh số bản vẽ tăng dần hoặc 'T' để tạo bảng thống kê khung tên. Chọn đối tượng mẫu (Text hoặc Attribute), nhập bước tăng/vị trí đặt bảng và quét chọn các khung tên cần xử lý.",
   "file_name": "BV.fas",
-  "file_id": "1oGwPvQMqk9KGOnVon8vgEghprBe3f9TC",
-  "download_url": "https://drive.google.com/uc?export=download&id=1oGwPvQMqk9KGOnVon8vgEghprBe3f9TC"
+  "file_id": "19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G",
+  "download_url": "https://drive.google.com/uc?export=download&id=19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G"
+},
+	  {
+  "id": "1XkqY4TeY56nrYlOxGkmK04D4cLjsdQGe",
+  "name": "Smart Copy & Auto Increment Text / Block ATT / Refedit",
+  "command": "123",
+  "version": "2026.10.22",
+  "full_desc": "Chương trình hỗ trợ sao chép thông minh và tự động tăng dần văn bản (Text, MText, Attribute) hoặc khối thuộc tính (Block ATT). Lệnh 123S dùng để mở hộp thoại cấu hình bước nhảy và thứ tự sắp xếp.",
+  "usage": "Nhập lệnh 123 (hoặc chọn đối tượng trước rồi nhập 123). Pick chọn điểm gốc và các điểm đặt bản sao để tự động tăng số/chữ. Nhập 123S hoặc nhấn 'S' trong khi chạy lệnh để mở bảng Setting thay đổi bước tăng.",
+  "file_name": "123.LSP",
+  "file_id": "1XkqY4TeY56nrYlOxGkmK04D4cLjsdQGe",
+  "download_url": "https://drive.google.com/uc?export=download&id=1XkqY4TeY56nrYlOxGkmK04D4cLjsdQGe"
 },
 {
   "id": "VE0",

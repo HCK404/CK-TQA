@@ -160,7 +160,7 @@ Tác giả: HOÀNG CAO KHÁNH
   "name": "Thống Kê & Đánh Số Bản Vẽ",
   "command": "BV",
 	"update": "Fix việc link giữa các thống kê bản vẽ và khung bản vẽ tăng cường khả năng liên kết text. Xóa bỏ tính năng sửa STT bản vẽ hãy sử dụng lisp 123 để điều chỉnh và copy text",
-  "version": "2026.10.22",
+  "version": "2026.10.26",
   "full_desc": "Tự động đánh số bản vẽ tăng dần theo vị trí sắp xếp và thống kê thuộc tính của các block khung tên để tạo bảng dữ liệu. Hỗ trợ liên kết 2 chiều (Reactor) giúp tự động đồng bộ thay đổi giữa bảng thống kê và thuộc tính khung tên.",
   "usage": "Nhập lệnh BV, chọn 'S' để đánh số bản vẽ tăng dần hoặc 'T' để tạo bảng thống kê khung tên. Chọn đối tượng mẫu (Text hoặc Attribute), nhập bước tăng/vị trí đặt bảng và quét chọn các khung tên cần xử lý.",
   "file_name": "BV.fas",

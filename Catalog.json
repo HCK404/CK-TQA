@@ -159,10 +159,10 @@ Tác giả: HOÀNG CAO KHÁNH
   "id": "BV",
   "name": "Thống Kê & Đánh Số Bản Vẽ",
   "command": "BV",
-	"update": "Fix việc link giữa các thống kê bản vẽ và khung bản vẽ tăng cường khả năng liên kết text. Xóa bỏ tính năng sửa STT bản vẽ hãy sử dụng lisp 123 để điều chỉnh và copy text",
-  "version": "2026.10.26",
-  "full_desc": "Tự động đánh số bản vẽ tăng dần theo vị trí sắp xếp và thống kê thuộc tính của các block khung tên để tạo bảng dữ liệu. Hỗ trợ liên kết 2 chiều (Reactor) giúp tự động đồng bộ thay đổi giữa bảng thống kê và thuộc tính khung tên.",
-  "usage": "Nhập lệnh BV, chọn 'S' để đánh số bản vẽ tăng dần hoặc 'T' để tạo bảng thống kê khung tên. Chọn đối tượng mẫu (Text hoặc Attribute), nhập bước tăng/vị trí đặt bảng và quét chọn các khung tên cần xử lý.",
+	"update": "Xóa bỏ tính năng sửa STT bản vẽ hãy sử dụng lisp 123 để điều chỉnh và copy text; Bổ sung tính năng thống kê khối lượng block & thống kê thông tin trong block ATT; Gõ S để vào bảng Setting thêm block để thống kê nhanh.
+	 Gõ BV $\rightarrow$ Pick hoặc quét chọn từ 2 Block mẫu trở lên (hoặc 1 Block thường không có ATT) $\rightarrow$ Nhấn Space để chốt mẫu $\rightarrow$ Quét vùng cần thống kê (hoặc nhấn Space lấy toàn bản vẽ) $\rightarrow$ Pick điểm đặt bảng.",
+  "version": "2026.11.11",
+  "full_desc": "Gõ BV $\rightarrow$ Pick vào 1 Block khung tên $\rightarrow$ Quét vùng các khung tên cần thống kê (hoặc nhấn Space để lấy toàn bản vẽ) $\rightarrow$ Pick điểm đặt bảng.",
   "file_name": "BV.fas",
   "file_id": "19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G",
   "download_url": "https://drive.google.com/uc?export=download&id=19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G"

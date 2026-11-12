@@ -161,7 +161,7 @@ Tác giả: HOÀNG CAO KHÁNH
   "command": "BV",
 	"update": "Xóa tính năng đánh STT bản vẽ (Hãy sử dụng lisp 123 để thay thế); Bổ sung thống kê SL block & thống kê thông tin Block ATT.",
   "version": "2026.11.11",
-  "full_desc": "Lisp hỗ trợ tạo bảng danh mục & thống kê block"
+  "full_desc": "Lisp hỗ trợ tạo bảng danh mục & thống kê block",
 	 "usage": "Gõ BV > Pick vào 1 Block khung tên > Quét vùng các khung tên cần thống kê (hoặc nhấn Space để lấy toàn bản vẽ) > Pick điểm đặt bảng.
 	 Gõ BV > Pick hoặc quét chọn từ 2 Block mẫu trở lên (hoặc 1 Block thường không có ATT) > Nhấn Space để chốt mẫu > Quét vùng cần thống kê (hoặc nhấn Space lấy toàn bản vẽ) > Pick điểm đặt bảng.",
   "file_name": "BV.fas",

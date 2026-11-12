@@ -159,10 +159,10 @@ Tác giả: HOÀNG CAO KHÁNH
   "id": "BV",
   "name": "Thống Kê & Đánh Số Bản Vẽ",
   "command": "BV",
-	"update": "Xóa bỏ tính năng sửa STT bản vẽ hãy sử dụng lisp 123 để điều chỉnh và copy text; Bổ sung tính năng thống kê khối lượng block & thống kê thông tin trong block ATT; Gõ S để vào bảng Setting thêm block để thống kê nhanh.
-	 Gõ BV $\rightarrow$ Pick hoặc quét chọn từ 2 Block mẫu trở lên (hoặc 1 Block thường không có ATT) $\rightarrow$ Nhấn Space để chốt mẫu $\rightarrow$ Quét vùng cần thống kê (hoặc nhấn Space lấy toàn bản vẽ) $\rightarrow$ Pick điểm đặt bảng.",
+	"update": "Xóa tính năng đánh STT bản vẽ (Hãy sử dụng lisp 123 để thay thế); Bổ sung thống kê SL block & thống kê thông tin Block ATT.",
   "version": "2026.11.11",
-  "full_desc": "Gõ BV $\rightarrow$ Pick vào 1 Block khung tên $\rightarrow$ Quét vùng các khung tên cần thống kê (hoặc nhấn Space để lấy toàn bản vẽ) $\rightarrow$ Pick điểm đặt bảng.",
+  "full_desc": "Gõ BV $\rightarrow$ Pick vào 1 Block khung tên $\rightarrow$ Quét vùng các khung tên cần thống kê (hoặc nhấn Space để lấy toàn bản vẽ) $\rightarrow$ Pick điểm đặt bảng.
+	 Gõ BV $\rightarrow$ Pick hoặc quét chọn từ 2 Block mẫu trở lên (hoặc 1 Block thường không có ATT) $\rightarrow$ Nhấn Space để chốt mẫu $\rightarrow$ Quét vùng cần thống kê (hoặc nhấn Space lấy toàn bản vẽ) $\rightarrow$ Pick điểm đặt bảng.",
   "file_name": "BV.fas",
   "file_id": "19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G",
   "download_url": "https://drive.google.com/uc?export=download&id=19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G"

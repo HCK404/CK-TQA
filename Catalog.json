@@ -33,6 +33,18 @@ Tác giả: HOÀNG CAO KHÁNH
   "download_url": "https://drive.google.com/uc?export=download&id=1OdFD0hfsHfw2uQPxWWxzaH6O4sVL1HCK"
 },
 	  {
+  "id": "12w-pR7vXBdGu-2yn-_lgisqPclG4vyx_",
+  "name": "Hatch Control",
+  "command": "HC",
+	"update": "",
+  "version": "3.3",
+  "full_desc": "Chương trình quản lý và tạo Hatch tự động trong AutoCAD (Hatch Control v3.3). Quản lý danh sách các mẫu hatch (Pattern, Scale, Angle, Layer, Color, Background Color), gán lệnh tắt riêng cho từng mẫu, hỗ trợ trích xuất thông số hatch từ bản vẽ và tự động tải bộ pattern từ Google Drive qua GAS Webhook.",
+  "usage": "Nhập lệnh HC để mở giao diện quản lý mẫu hatch và thiết lập lệnh tắt. Sau khi gán lệnh tắt, gõ lệnh tắt tương ứng để thực hiện hatch trực tiếp vào vùng chọn hoặc thay đổi thuộc tính hatch có sẵn.",
+  "file_name": "CKHatch.fas",
+  "file_id": "12w-pR7vXBdGu-2yn-_lgisqPclG4vyx_",
+  "download_url": "https://drive.google.com/uc?export=download&id=12w-pR7vXBdGu-2yn-_lgisqPclG4vyx_"
+},
+	  {
       "id": "CAC",
       "name": "Máy tính nhanh trong giao diện Model",
       "command": "CAC",

@@ -96,7 +96,7 @@ Tác giả: HOÀNG CAO KHÁNH
 	"update": "Điều chỉnh lệnh D2 (bổ sung tính năng tự dóng các dim được chọn về thẳng 1 lớp; Bổ sung lệnh DF(dimlfac) chia tỉ lệ dim trực tiếp",
 	"version": "2026.11.20",
     "full_desc": "Tăng tốc Dimension. Hỗ trợ sử dụng tăng tốc dim bản vẽ hỗ trợ đầy đủ các tính năng dim cơ bản, kết hợp với lisp SA (điều chỉnh tỉ lệ bản vẽ để được kết quả tốt nhất) ).",
-  	"usage": "Gõ lệnh D (hoặc các lệnh tắt độc lập như [D1] Gộp dim, [D2] Dim liên tục, [DA] Chỉnh khoảng cách dim, DB Tạo dim tổng, [DH] Bật tắt bắt điểm, [DO] Khoảng cách lớp dim, [DV] Dim nhanh, [DS] Chia dim, [DI] Link dim với text/dim #, [CD] Cắt dim, [DF] Chỉnh tỉ lệ dim) và làm theo hướng dẫn/menu lựa chọn trên dòng lệnh AutoCAD.",
+  	"usage": "[D] Dim thẳng X&Y & [DAL] Dim chéo.[D1] Gộp dim. [D2] Dim liên tục. [DA] Chỉnh khoảng cách dim. [DB] Tạo dim tổng. [DH] Bật tắt bắt điểm dim Hatch. [DO] Bật tắt căn chỉnh khoảng cách lớp dim. [DV] Dim nhanh. [DS] Chia dim (chia bậc). [DI] Link dim với text/dim #. [CD] Cắt dim. [DF] Chỉnh tỉ lệ dim.",
 	"file_name": "Dim.fas",
       	 "file_id": "1VUSjfL0WBjWFMqPO7tpwHOsnMbKKDpm0",
   "download_url": "https://drive.google.com/uc?export=download&id=1VUSjfL0WBjWFMqPO7tpwHOsnMbKKDpm0"

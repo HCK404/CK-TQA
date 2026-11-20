@@ -181,12 +181,12 @@ Tác giả: HOÀNG CAO KHÁNH
   "download_url": "https://drive.google.com/uc?export=download&id=19EZZV2TrBgizCGHDHOyl86YzRyYGIm-G"
 },
 	  {
-  "id": "1XkqY4TeY56nrYlOxGkmK04D4cLjsdQGe",
+  "id": "Copy",
   "name": "Smart Copy & Auto Increment Text / Block ATT / Refedit",
   "command": "123",
   "version": "2026.10.22",
   "full_desc": "Chương trình hỗ trợ sao chép thông minh và tự động tăng dần văn bản (Text, MText, Attribute) hoặc khối thuộc tính (Block ATT). Lệnh 123S dùng để mở hộp thoại cấu hình bước nhảy và thứ tự sắp xếp.",
-  "usage": "Nhập lệnh 123 (hoặc chọn đối tượng trước rồi nhập 123). Pick chọn điểm gốc và các điểm đặt bản sao để tự động tăng số/chữ. Nhập 123S hoặc nhấn 'S' trong khi chạy lệnh để mở bảng Setting thay đổi bước tăng.",
+  "usage": "Gõ 123). Pick chọn điểm gốc và các điểm đặt bản sao để tự động tăng số/chữ. Nhập 123S hoặc nhấn 'S' trong khi chạy lệnh để mở bảng Setting thay đổi bước tăng.",
   "file_name": "123.LSP",
   "file_id": "1XkqY4TeY56nrYlOxGkmK04D4cLjsdQGe",
   "download_url": "https://drive.google.com/uc?export=download&id=1XkqY4TeY56nrYlOxGkmK04D4cLjsdQGe"
